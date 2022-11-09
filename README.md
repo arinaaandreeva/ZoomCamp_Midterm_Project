@@ -14,13 +14,13 @@
 'population_total'
 
 #### **-CO2_emission_2008_13.csv and CO2_emission_2014.csv** 
-                                  Data from Kaggle was used to build various models (https://www.kaggle.com/datasets/atreyakatnam/co2-emission-prediction-data). This data is loaded in the project itself from my repository. Two datasets were given on the web-site, and later they were combined for a larger sample of data. 
+  Data from Kaggle was used to build various models (https://www.kaggle.com/datasets/atreyakatnam/co2-emission-prediction-data). This data is loaded in the project itself from my repository. Two datasets were given on the web-site, and later they were combined for a larger sample of data. 
 
 #### **-notebook.ipynb** 
-                                  is a file with data preparation, EDA and training various models
+  is a file with data preparation, EDA and training various models
 
 #### **-train.py** 
-                                  is a file with the best model and testing this other model on other data
+  is a file with the best model and testing this other model on other data
 
 #### **-train&predict_bentoml** 
-                                  these files contains training the final model, saving it with BentoML, loading the model and serving it via a web serice. (There are two files with such name but different type, they are identical)  
+  these files contains training the final model, saving it with BentoML, loading the model and serving it via a web serice. (There are two files with such name but different type, they are identical)  
